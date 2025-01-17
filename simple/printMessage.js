@@ -10,8 +10,10 @@
  */
 
 // Write your solution here
-function printMessage(message) {
-  console.log(message);
+function printMessage(massage) {
+    console.log(massage);
 }
+
+printMessage('Hello, world!')
 
 module.exports = printMessage;
